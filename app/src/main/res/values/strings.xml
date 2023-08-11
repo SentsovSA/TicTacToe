@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="clearBoard">Очистить поле</string>
+    <string name="left_top">Лево-верх</string>
+    <string name="center_top">верх-центр</string>
+    <string name="right_top">право-верх</string>
+    <string name="left_center">лево-центр</string>
+    <string name="center_center">центр</string>
+    <string name="right_center">право-центр</string>
+    <string name="left_bottom">лево-низ</string>
+    <string name="center_bottom">центр-низ</string>
+    <string name="right_bottom">право-низ</string>
+</resources>
