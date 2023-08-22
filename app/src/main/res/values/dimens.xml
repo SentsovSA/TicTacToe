@@ -4,4 +4,5 @@
     <dimen name="margin_field">10dp</dimen>
     <dimen name="margin_start_grid">5dp</dimen>
     <dimen name="margin_top_btn">30dp</dimen>
+    <dimen name="textSize">20sp</dimen>
 </resources>
